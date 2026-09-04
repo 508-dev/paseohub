@@ -59,7 +59,7 @@
     "clsx": "2.1.1",
     "cmdk": "^1.1.1",
     "codemirror": "^6.0.2",
-    "discord.js": "^14.26.4",
+    "discord.js": "^14.27.0",
     "dotenv": "^16.4.7",
     "drizzle-orm": "0.45.2",
     "js-yaml": "^4.3.2",
